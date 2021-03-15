@@ -9,7 +9,10 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-#### According to the data, when filtered down to Parent Category, campaigns that are launched in May have the highest success rate. https://github.com/swright18/kickstarter-analysis/issues/1#issue-831336822
+#### According to the data, when filtered down to Parent Category, campaigns that are launched in May have the highest success rate. https://github.com/swright18/kickstarter-analysis/blob/3d71006ee3f5fd60be1402676eff96265d39b4e9/Resources/Theater_Outcomes_vs_Launch.png
+
+https://github.com/swright18/kickstarter-analysis/blob/3d71006ee3f5fd60be1402676eff96265d39b4e9/Resources/Theater_Outcomes_vs_Launch.png
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
