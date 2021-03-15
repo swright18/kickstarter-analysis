@@ -11,7 +11,7 @@
 ### Analysis of Outcomes Based on Launch Date
 #### According to the data, when filtered down to Parent Category, campaigns that are launched in May have the highest success rate. ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/79758494/111094155-991d5100-8508-11eb-92d1-34447d541e55.png)
 
-![outcomes_vs_goals]https://github.com/swright18/kickstarter-analysis/blob/31974f422f888b2e50f8cf956e20945cefb3ca9b/Resources/outcomes_vs_Goals.png
+![outcomes_vs_Goals](https://user-images.githubusercontent.com/79758494/111094442-4d1edc00-8509-11eb-9851-7e27095116c9.png)
 
 ### Analysis of Outcomes Based on Goals
 
